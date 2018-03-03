@@ -327,7 +327,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "1000",
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": false,
             "slides": [
               {
