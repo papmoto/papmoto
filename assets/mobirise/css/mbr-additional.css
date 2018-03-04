@@ -1381,44 +1381,44 @@ body {
 .cid-qKgug2tvNZ H3 {
   color: #b2ccd2;
 }
-.cid-qKgJeUkFGx .modal-body .close {
+.cid-qLmatmeYSP .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qKgJeUkFGx .modal-body .close span {
+.cid-qLmatmeYSP .modal-body .close span {
   font-style: normal;
 }
-.cid-qKgJeUkFGx .carousel-inner > .active,
-.cid-qKgJeUkFGx .carousel-inner > .next,
-.cid-qKgJeUkFGx .carousel-inner > .prev {
+.cid-qLmatmeYSP .carousel-inner > .active,
+.cid-qLmatmeYSP .carousel-inner > .next,
+.cid-qLmatmeYSP .carousel-inner > .prev {
   display: table;
 }
-.cid-qKgJeUkFGx .carousel-control .icon-next,
-.cid-qKgJeUkFGx .carousel-control .icon-prev {
+.cid-qLmatmeYSP .carousel-control .icon-next,
+.cid-qLmatmeYSP .carousel-control .icon-prev {
   margin-top: -18px;
   font-size: 40px;
   line-height: 27px;
 }
-.cid-qKgJeUkFGx .carousel-control:hover {
+.cid-qLmatmeYSP .carousel-control:hover {
   background: #1b1b1b;
   color: #fff;
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qKgJeUkFGx .container .carousel-control {
+  .cid-qLmatmeYSP .container .carousel-control {
     margin-bottom: 0;
   }
 }
-.cid-qKgJeUkFGx .boxed-slider {
+.cid-qLmatmeYSP .boxed-slider {
   position: relative;
   padding: 93px 0;
 }
-.cid-qKgJeUkFGx .boxed-slider > div {
+.cid-qLmatmeYSP .boxed-slider > div {
   position: relative;
 }
-.cid-qKgJeUkFGx .container img {
+.cid-qLmatmeYSP .container img {
   width: 100%;
 }
-.cid-qKgJeUkFGx .container img + .row {
+.cid-qLmatmeYSP .container img + .row {
   position: absolute;
   top: 50%;
   left: 0;
@@ -1428,17 +1428,17 @@ body {
   transform: translateY(-50%);
   z-index: 2;
 }
-.cid-qKgJeUkFGx .mbr-section {
+.cid-qLmatmeYSP .mbr-section {
   padding: 0;
   background-attachment: scroll;
 }
-.cid-qKgJeUkFGx .mbr-table-cell {
+.cid-qLmatmeYSP .mbr-table-cell {
   padding: 0;
 }
-.cid-qKgJeUkFGx .container .carousel-indicators {
+.cid-qLmatmeYSP .container .carousel-indicators {
   margin-bottom: 3px;
 }
-.cid-qKgJeUkFGx .carousel-caption {
+.cid-qLmatmeYSP .carousel-caption {
   top: 50%;
   right: 0;
   bottom: auto;
@@ -1448,15 +1448,15 @@ body {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-.cid-qKgJeUkFGx .mbr-overlay {
+.cid-qLmatmeYSP .mbr-overlay {
   z-index: 1;
 }
-.cid-qKgJeUkFGx .container-slide.container {
+.cid-qLmatmeYSP .container-slide.container {
   min-width: 100%;
   min-height: 100vh;
   padding: 0;
 }
-.cid-qKgJeUkFGx .carousel-item {
+.cid-qLmatmeYSP .carousel-item {
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1469,26 +1469,26 @@ body {
   perspective: 1000px;
 }
 @media (max-width: 576px) {
-  .cid-qKgJeUkFGx .carousel-item .container {
+  .cid-qLmatmeYSP .carousel-item .container {
     width: 100%;
   }
 }
-.cid-qKgJeUkFGx .carousel-item-next.carousel-item-left,
-.cid-qKgJeUkFGx .carousel-item-prev.carousel-item-right {
+.cid-qLmatmeYSP .carousel-item-next.carousel-item-left,
+.cid-qLmatmeYSP .carousel-item-prev.carousel-item-right {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
-.cid-qKgJeUkFGx .active.carousel-item-right,
-.cid-qKgJeUkFGx .carousel-item-next {
+.cid-qLmatmeYSP .active.carousel-item-right,
+.cid-qLmatmeYSP .carousel-item-next {
   -webkit-transform: translate3d(100%, 0, 0);
   transform: translate3d(100%, 0, 0);
 }
-.cid-qKgJeUkFGx .active.carousel-item-left,
-.cid-qKgJeUkFGx .carousel-item-prev {
+.cid-qLmatmeYSP .active.carousel-item-left,
+.cid-qLmatmeYSP .carousel-item-prev {
   -webkit-transform: translate3d(-100%, 0, 0);
   transform: translate3d(-100%, 0, 0);
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-control {
+.cid-qLmatmeYSP .mbr-slider .carousel-control {
   top: 50%;
   width: 70px;
   height: 70px;
@@ -1499,29 +1499,29 @@ body {
   border-radius: 50%;
   transition: all .3s;
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-control.carousel-control-prev {
+.cid-qLmatmeYSP .mbr-slider .carousel-control.carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-control.carousel-control-next {
+.cid-qLmatmeYSP .mbr-slider .carousel-control.carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-control .mbr-iconfont {
+.cid-qLmatmeYSP .mbr-slider .carousel-control .mbr-iconfont {
   font-size: 2rem;
 }
 @media (max-width: 767px) {
-  .cid-qKgJeUkFGx .mbr-slider .carousel-control {
+  .cid-qLmatmeYSP .mbr-slider .carousel-control {
     top: auto;
     bottom: 1rem;
   }
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-indicators {
+.cid-qLmatmeYSP .mbr-slider .carousel-indicators {
   position: absolute;
   bottom: 0;
   margin-bottom: 1.5rem !important;
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-indicators li {
+.cid-qLmatmeYSP .mbr-slider .carousel-indicators li {
   max-width: 20px;
   width: 20px;
   height: 20px;
@@ -1533,15 +1533,15 @@ body {
   opacity: .5;
   transition: all .3s;
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-indicators li.active,
-.cid-qKgJeUkFGx .mbr-slider .carousel-indicators li:hover {
+.cid-qLmatmeYSP .mbr-slider .carousel-indicators li.active,
+.cid-qLmatmeYSP .mbr-slider .carousel-indicators li:hover {
   opacity: .9;
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-indicators li::after,
-.cid-qKgJeUkFGx .mbr-slider .carousel-indicators li::before {
+.cid-qLmatmeYSP .mbr-slider .carousel-indicators li::after,
+.cid-qLmatmeYSP .mbr-slider .carousel-indicators li::before {
   content: none;
 }
-.cid-qKgJeUkFGx .mbr-slider .carousel-indicators.ie-fix {
+.cid-qLmatmeYSP .mbr-slider .carousel-indicators.ie-fix {
   left: 50%;
   display: block;
   width: 60%;
@@ -1549,14 +1549,14 @@ body {
   text-align: center;
 }
 @media (max-width: 576px) {
-  .cid-qKgJeUkFGx .mbr-slider .carousel-indicators {
+  .cid-qLmatmeYSP .mbr-slider .carousel-indicators {
     display: none !important;
   }
 }
-.cid-qKgJeUkFGx .mbr-slider > .container img {
+.cid-qLmatmeYSP .mbr-slider > .container img {
   width: 100%;
 }
-.cid-qKgJeUkFGx .mbr-slider > .container img + .row {
+.cid-qLmatmeYSP .mbr-slider > .container img + .row {
   position: absolute;
   top: 50%;
   right: 0;
@@ -1566,55 +1566,55 @@ body {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-.cid-qKgJeUkFGx .mbr-slider > .container .carousel-indicators {
+.cid-qLmatmeYSP .mbr-slider > .container .carousel-indicators {
   margin-bottom: 3px;
 }
 @media (max-width: 576px) {
-  .cid-qKgJeUkFGx .mbr-slider > .container .carousel-control {
+  .cid-qLmatmeYSP .mbr-slider > .container .carousel-control {
     margin-bottom: 0;
   }
 }
-.cid-qKgJeUkFGx .mbr-slider .mbr-section {
+.cid-qLmatmeYSP .mbr-slider .mbr-section {
   padding: 0;
   background-attachment: scroll;
 }
-.cid-qKgJeUkFGx .mbr-slider .mbr-table-cell {
+.cid-qLmatmeYSP .mbr-slider .mbr-table-cell {
   padding: 0;
 }
-.cid-qKgJeUkFGx .carousel-item .container.container-slide {
+.cid-qLmatmeYSP .carousel-item .container.container-slide {
   position: initial;
   width: auto;
   min-height: 0;
 }
-.cid-qKgJeUkFGx .full-screen .slider-fullscreen-image {
+.cid-qLmatmeYSP .full-screen .slider-fullscreen-image {
   min-height: 100vh;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
 }
-.cid-qKgJeUkFGx .full-screen .slider-fullscreen-image.active {
+.cid-qLmatmeYSP .full-screen .slider-fullscreen-image.active {
   display: -o-flex;
 }
-.cid-qKgJeUkFGx .full-screen .container {
+.cid-qLmatmeYSP .full-screen .container {
   width: auto;
   padding-right: 0;
   padding-left: 0;
 }
-.cid-qKgJeUkFGx .full-screen .carousel-item .container.container-slide {
+.cid-qLmatmeYSP .full-screen .carousel-item .container.container-slide {
   width: 100%;
   min-height: 100vh;
   padding: 0;
 }
-.cid-qKgJeUkFGx .full-screen .carousel-item .container.container-slide img {
+.cid-qLmatmeYSP .full-screen .carousel-item .container.container-slide img {
   display: none;
 }
-.cid-qKgJeUkFGx .mbr-background-video-preview {
+.cid-qLmatmeYSP .mbr-background-video-preview {
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
 }
-.cid-qKgJeUkFGx .mbr-overlay ~ .container-slide {
+.cid-qLmatmeYSP .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
